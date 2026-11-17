@@ -1,0 +1,9 @@
+public class NewClass
+{
+    public void IspisPodataka()
+    {
+        Console.WriteLine("Ovo je nova klasa.");
+
+   
+    }
+    }
